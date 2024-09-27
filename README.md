@@ -1,3 +1,6 @@
+# Cite
+
+```shell script
 @article{HRAN,
    author = {Li, Z. and Liu, H. and Zhang, Z. and Liu, T. and Xiong, N. N.},
    title = {Learning Knowledge Graph Embedding With Heterogeneous Relation Attention Networks},
